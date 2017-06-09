@@ -1,0 +1,1 @@
+<?= $this->Number->format($totalExpenses, ['places' => 2, 'before' => 'R$ ']) ?>

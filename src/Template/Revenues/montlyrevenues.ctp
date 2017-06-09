@@ -1,0 +1,1 @@
+<?= $this->Number->format($montlyRevenues, ['places' => 2, 'before' => 'R$ ']) ?>
